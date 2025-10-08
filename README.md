@@ -62,11 +62,6 @@ Currently improving my skills in **C++**, **Godot**, and **graphics programming*
 
 ---
 
-### 💜 Vibe  
-🕸️ Dark academia meets neon tech  
-🎮 Kuromi-coded energy, caffeine, and late-night debugging  
-🦇 Always chasing beauty in logic  
-
 ---
 
 ### 🌐 Connect  
