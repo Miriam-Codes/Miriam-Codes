@@ -25,13 +25,17 @@
 
 ---
 
-### 🕯️ About Me  
-I’m a Computer Games Development student exploring how **art, code, and AI** blend to build immersive worlds.  
-Currently improving my skills in **C++**, **Godot**, and **graphics programming** while learning more about **AI/ML**.  
+## 🕯️ About Me  
+A developer who believes that **code has mood** — sometimes quiet and elegant, sometimes chaotic and alive.  
+I’m shaping my craft in **C++**, **Godot**, and **graphics programming**, learning how logic and art merge inside games and AI systems.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
+</p>
 
 ---
 
-### ⚙️ Tech Stack  
+## ⚙️ Tech Stack  
 
 | Area | Tools |
 |------|-------|
@@ -40,31 +44,43 @@ Currently improving my skills in **C++**, **Godot**, and **graphics programming*
 | **Web / Backend** | React, FastAPI, Supabase, Docker |
 | **Tools** | Git, DigitalOcean, Vite, Tailwind, VS Code, IntelliJ |
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
+</p>
+
 ---
+
+## 📊 GitHub Stats  
 
 <div align="center">
 
-### 📊 GitHub Stats  
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=Miriam-Codes&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miriam-Codes&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Miriam-Codes&theme=tokyonight_duo&hide_border=true)
+
+<!-- Replaces streak card with an always-working animated graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miriam-Codes&theme=tokyo-night&hide_border=true)
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
+</p>
+
 ---
 
-### 🖤 Currently  
+## 🖤 Currently  
 - 🌱 Building a stronger foundation in **systems programming**  
 - 💡 Learning **AI concepts** for game logic and procedural tools  
-- 🧩 Experimenting with **Godot** and procedural generation 
+- 🧩 Experimenting with **Godot** and procedural generation  
 - ✍️ Exploring digital art, animation, and dark-cute design  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
+</p>
 
 ---
 
-### 🌐 Connect  
+## 🌐 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-m-3964b1241/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Miriam-Codes)
 
@@ -72,10 +88,13 @@ Currently improving my skills in **C++**, **Godot**, and **graphics programming*
 
 <div align="center">
 
-🕯️ *“Code is poetry, and I’m still learning the rhythm.”* 🕯️  
+<blockquote align="center">
+  <em>“Forever is composed of nows and lines of code.”</em><br/>
+  — inspired by Emily Dickinson
+</blockquote>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" alt="divider" width="500"/>
+  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
 </p>
 
 </div>
