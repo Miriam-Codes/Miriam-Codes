@@ -51,7 +51,7 @@ I enjoy solving technical problems with a creative edge — whether that’s des
 ---
 
 ### 🌐 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriammohammed/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-m-3964b1241/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MiriamCodes)
 
 ---
