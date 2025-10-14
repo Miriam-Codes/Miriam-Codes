@@ -26,8 +26,7 @@
 ---
 
 ## 🕯️ About Me  
-A developer who believes that **code has mood** — sometimes quiet and elegant, sometimes chaotic and alive.  
-I’m shaping my craft in **C++**, **Godot**, and **graphics programming**, learning how logic and art merge inside games and AI systems.  
+I’m a developer exploring C++, Godot, and graphics programming, learning how to bring ideas to life through code and design. 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
