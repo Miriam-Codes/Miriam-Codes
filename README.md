@@ -61,14 +61,6 @@ Current areas of focus:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Miriam-Codes&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miriam-Codes&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
