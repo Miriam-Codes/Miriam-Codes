@@ -1,99 +1,81 @@
-<!-- PROFILE README: Miriam Mohammed -->
-
+```md
 <div align="center">
 
-<!-- 🌌 Replace the banner below with your own -->
-<img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/banner.png" alt="Miriam Mohammed Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/banner.png" alt="Banner" width="100%"/>
 
-# 🖤 Miriam Mohammed  
-🎮 Computer Games Development Student @ University of Limerick  
-💼 Previously @ Ericsson Ireland — SDK Documentation & Dev Portal  
-💫 Pronouns: **She / Her**
+# Miriam Mohammed
 
----
+Computer Games Development student at the University of Limerick.
 
-<!-- 🧷 Static badges -->
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+Previously worked at Ericsson, contributing to SDK documentation, developer portal improvements, and developer onboarding resources.
+
+Currently focused on game development, C++, graphics programming, and software engineering fundamentals.
 
 </div>
 
 ---
 
-## 🕯️ About Me  
-I’m a developer exploring C++, Godot, and graphics programming, learning how to bring ideas to life through code and design. 
+## About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
-</p>
+I'm interested in game development, backend systems, graphics programming, and developer tools.
 
----
+Most of my repositories are learning projects at the moment, but I'm actively building personal projects to strengthen my skills and portfolio.
 
-## ⚙️ Tech Stack  
+Current areas of focus:
 
-| Area | Tools |
-|------|-------|
-| **Languages** | C++, Python, Java, JavaScript |
-| **Game Development** | Godot, Unity (learning) |
-| **Web / Backend** | React, FastAPI, Supabase, Docker |
-| **Tools** | Git, DigitalOcean, Vite, Tailwind, VS Code, IntelliJ |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
-</p>
+- C++ and systems programming
+- Data structures and algorithms
+- Godot game development
+- Graphics and rendering concepts
+- Software engineering best practices
 
 ---
 
-## 📊 GitHub Stats  
+## Tech Stack
+
+### Languages
+- C++
+- Python
+- Java
+- JavaScript
+- SQL
+
+### Game Development
+- Godot
+- Unity (learning)
+
+### Tools
+- Git
+- Docker
+- Linux
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## Currently Working On
+
+- Building small games with Godot
+- Expanding my GitHub portfolio with personal projects
+- Improving my C++ fundamentals
+- Practising data structures and algorithms
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Miriam-Codes&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miriam-Codes&layout=compact&theme=tokyonight&hide_border=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=Miriam-Codes&show_icons=true&theme=tokyonight&hide_border=true)
 
-<!-- Replaces streak card with an always-working animated graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miriam-Codes&theme=tokyo-night&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miriam-Codes&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
-</p>
-
 ---
 
-## 🖤 Currently  
-- 🌱 Building a stronger foundation in **systems programming**  
-- 💡 Learning **AI concepts** for game logic and procedural tools  
-- 🧩 Experimenting with **Godot** and procedural generation  
-- ✍️ Exploring digital art, animation, and dark-cute design  
+## Connect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
-</p>
-
----
-
-## 🌐 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-m-3964b1241/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Miriam-Codes)
-
----
-
-<div align="center">
-
-<blockquote align="center">
-  <em>“Forever is composed of nows and lines of code.”</em><br/>
-  — inspired by Emily Dickinson
-</blockquote>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/divider.gif" width="500" alt="divider"/>
-</p>
-
-</div>
+- LinkedIn: https://www.linkedin.com/in/miriam-m-3964b1241
+- GitHub: https://github.com/Miriam-Codes
+```
