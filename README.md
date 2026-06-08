@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/banner.png" alt="Banner" width="100%"/>
@@ -78,4 +77,3 @@ Current areas of focus:
 
 - LinkedIn: https://www.linkedin.com/in/miriam-m-3964b1241
 - GitHub: https://github.com/Miriam-Codes
-```
