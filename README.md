@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Miriam-Codes/Miriam-Codes/main/assets/banner.png" alt="Banner" width="100%"/>
-
 # Miriam Mohammed
 
 Computer Games Development student at the University of Limerick.
