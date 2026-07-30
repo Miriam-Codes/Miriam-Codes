@@ -47,9 +47,18 @@ Current areas of focus:
 - Linux
 - VS Code
 - IntelliJ IDEA
-
+  
 ---
 
+## Hackathons
+
+### NASA Space Apps Challenge 2025 — Cea-SAR
+Flood-intelligence platform using Sentinel-1 radar data to visualise flooding across the River Shannon basin.
+
+**Role:** Backend Development and Data Analysis  
+**Team repository:** [Cea-SAR](https://github.com/Mogboella/CeeSAR)
+
+---
 ## Currently Working On
 
 - Building small games with Godot
